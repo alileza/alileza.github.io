@@ -1,0 +1,4 @@
+baseURL = "http://alileza.me/"
+languageCode = "en-us"
+title = "hello"
+theme = "kiss"
